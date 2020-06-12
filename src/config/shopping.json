@@ -1,0 +1,60 @@
+{
+  "date": "20200613",
+  "items": [
+    {
+      "id": "1",
+      "content": "发酵粉",
+      "complete": false
+    },
+    {
+      "id": "2",
+      "content": "酸菜",
+      "complete": false
+    },
+    {
+      "id": "3",
+      "content": "榨菜",
+      "complete": false
+    },
+    {
+      "id": "4",
+      "content": "大蒜",
+      "complete": false
+    },
+    {
+      "id": "5",
+      "content": "花椒",
+      "complete": false
+    },
+    {
+      "id": "6",
+      "content": "孜然",
+      "complete": false
+    },
+    {
+      "id": "7",
+      "content": "巴沙鱼",
+      "complete": false
+    },
+    {
+      "id": "8",
+      "content": "鸡翅",
+      "complete": false
+    },
+    {
+      "id": "9",
+      "content": "果汁",
+      "complete": false
+    },
+    {
+      "id": "10",
+      "content": "土豆",
+      "complete": false
+    },
+    {
+      "id": "11",
+      "content": "洋葱",
+      "complete": false
+    }
+  ]
+}
